@@ -1,0 +1,10 @@
+{
+  "name": "DisasterRelief",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Daniel Mangum",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
