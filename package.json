@@ -5,7 +5,7 @@
   "author": "Daniel Mangum",
   "license": "MIT",
   "dependencies": {
-    "dialogflow": "^0.1.0",
+    "apiai": "^4.0.3",
     "dotenv": "^5.0.1",
     "express": "^4.16.2",
     "request": "^2.83.0"
