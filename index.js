@@ -2,6 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const verificationController = require('./controllers/verification');
 const messageWebhookController = require('./controllers/messageWebhook');
+require('dotenv').config()
 
 const app = express();
 app.use(bodyParser.json());
